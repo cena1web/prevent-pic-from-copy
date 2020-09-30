@@ -1,0 +1,1 @@
+# prevent-pic-from-copy
